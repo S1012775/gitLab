@@ -5,8 +5,5 @@
 - pork
 - barbecue grill
 - wood coal
-<<<<<<< HEAD
 - mushroom
-=======
 - corn 
->>>>>>> bbq
